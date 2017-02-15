@@ -1,3 +1,5 @@
+Lesson 9 complete conditon and alert added in main.js.
+
 declered four variables and checked in browser with different operators.
 
 main.js conacted to index.html
