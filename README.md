@@ -1,3 +1,6 @@
+declered four variables and checked in browser with different operators.
+
+main.js conacted to index.html
 
 main.js file created for java script inclusion.
 
