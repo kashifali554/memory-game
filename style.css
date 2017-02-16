@@ -1,9 +1,14 @@
 h1 {
 	color: teal;
+	text-align: center;
 }
 
 h2 {
 	color: gold;
+	text-align: center;
+}
+p {
+	text-align: center;
 }
 
 .board {
@@ -39,6 +44,8 @@ a {
 	color: white;
 	padding: 35px;
 	float: left;
+	display: block;
+	text-decoration: none;
 }
 
 a:hover {
