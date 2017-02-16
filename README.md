@@ -1,3 +1,5 @@
+Lesson 10 complete, card created using javascript and DOM manipulation.
+
 Lesson 9 complete conditon and alert added in main.js.
 
 declered four variables and checked in browser with different operators.
