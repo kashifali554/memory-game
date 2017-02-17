@@ -1,3 +1,6 @@
+Lesson 11 completed, basic game improved. King and queen images added. Also callback function added from fundamentals. img element added in css.
+
+
 Lesson 10 complete, card created using javascript and DOM manipulation.
 
 Lesson 9 complete conditon and alert added in main.js.
